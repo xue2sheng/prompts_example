@@ -153,39 +153,55 @@ The correct pronunciation of participle endings in English (typically the "-ed" 
     [16](https://www.cambridgeenglish.org/Images/181161-delta-handbook-for-tutors-and-candidates-document.pdf)
     [17](https://hancockmcdonald.com/sites/hancockmcdonald.com/files/file-downloads/PronPack%205%20Sample%20Material.pdf)
 
-## Mistral
+### COSTAR
 
-### without rolo prompt
+    ## Pronunciación de la terminación **-ed** en inglés
 
-    In English, the pronunciation of the **past participle ending** (usually **-ed**) depends on the sound that comes before it. Here’s how to pronounce it correctly:
+    La terminación **-ed** de los verbos regulares en pasado y participio puede pronunciarse de tres formas diferentes: /t/, /d/ o /ɪd/. Aquí tienes una tabla sencilla para que puedas identificar cuándo usar cada sonido.
 
-    ### 1. **/t/ sound**
-       - After **voiceless consonants** (except /t/):
-         - **Voiceless consonants:** /p/, /k/, /f/, /s/, /ʃ/, /tʃ/
-         - Examples:
-           - **walked** /wɔːkt/
-           - **laughed** /læft/
-           - **washed** /wɒʃt/
+    | Regla de pronunciación | Ejemplos de verbos | Frase de ejemplo (contexto cotidiano) |
+    | --- | --- | --- |
+    | **/t/** — Después de sonidos sordos (p, k, s, ch, sh, f) | *watched*, *kissed*, *helped* | *I watched a movie last night.* (Anoche vi una película.) |
+    | **/d/** — Después de sonidos sonoros (vocales o consonantes como b, g, m, n, l, r, v, z) | *played*, *called*, *cleaned* | *She played basketball yesterday.* (Ella jugó baloncesto ayer.) |
+    | **/ɪd/** — Después de sonidos /t/ o /d/ | *wanted*, *needed*, *decided* | *He wanted to eat pizza.* (Él quería comer pizza.) |
 
-    ### 2. **/d/ sound**
-       - After **voiced consonants** or **vowels** (except /d/):
-         - **Voiced consonants:** /b/, /g/, /v/, /z/, /ʒ/, /dʒ/, /m/, /n/, /ŋ/, /l/, /r/
-         - **Vowels:** /æ/, /e/, /ɪ/, /ɔː/, /ʊ/, etc.
-         - Examples:
-           - **played** /pleɪd/
-           - **loved** /lʌvd/
-           - **answered** /ˈɑːnsərd/
+    **Tip fácil para recordar:**
+    - Piensa en si la última letra (sonido) antes de **-ed** es sonora, sorda o es una /t/ o /d/. Según eso eliges el sonido.
 
-    ### 3. **/ɪd/ sound**
-       - After **/t/** or **/d/** sounds:
-         - Examples:
-           - **wanted** /ˈwɒntɪd/
-           - **needed** /ˈniːdɪd/
+    ¿Quieres que practiquemos juntos diciendo en voz alta estos ejemplos para que los escuches y repitas? Así fijarás la pronunciación.
+    ## Mistral
 
-    ---
-    **Tip:** Listen for the last sound of the base verb to decide which ending to use.
+    ### without rolo prompt
 
-    Would you like examples for a specific word or more practice?
+        In English, the pronunciation of the **past participle ending** (usually **-ed**) depends on the sound that comes before it. Here’s how to pronounce it correctly:
+
+        ### 1. **/t/ sound**
+           - After **voiceless consonants** (except /t/):
+             - **Voiceless consonants:** /p/, /k/, /f/, /s/, /ʃ/, /tʃ/
+             - Examples:
+               - **walked** /wɔːkt/
+               - **laughed** /læft/
+               - **washed** /wɒʃt/
+
+        ### 2. **/d/ sound**
+           - After **voiced consonants** or **vowels** (except /d/):
+             - **Voiced consonants:** /b/, /g/, /v/, /z/, /ʒ/, /dʒ/, /m/, /n/, /ŋ/, /l/, /r/
+             - **Vowels:** /æ/, /e/, /ɪ/, /ɔː/, /ʊ/, etc.
+             - Examples:
+               - **played** /pleɪd/
+               - **loved** /lʌvd/
+               - **answered** /ˈɑːnsərd/
+
+        ### 3. **/ɪd/ sound**
+           - After **/t/** or **/d/** sounds:
+             - Examples:
+               - **wanted** /ˈwɒntɪd/
+               - **needed** /ˈniːdɪd/
+
+        ---
+        **Tip:** Listen for the last sound of the base verb to decide which ending to use.
+
+        Would you like examples for a specific word or more practice?
 
 ### With role prompt
 
@@ -240,4 +256,29 @@ The correct pronunciation of participle endings in English (typically the "-ed" 
 
     Would you like more examples or a listening exercise?
 
-*Asume el rol de profesor de inglés para alumnos con nivel A2 de ingles en el país España. Como explicarías a un grupo de estudiantes cómo es la pronunciación correcta de la terminación del participio.**
+### COSTAR
+
+    ¡Claro! Vamos a practicar la pronunciación de la terminación **-ed** en los verbos en pasado o participio en inglés. Esta parte puede ser un poco confusa, pero con reglas claras y ejemplos cotidianos, ¡lo dominaréis en un santiamén!
+
+    Aquí tenéis una tabla que resume las reglas, con ejemplos y frases de uso real. Recordad que la pronunciación depende del **sonido final** de la forma base del verbo (infinitivo), no de la letra escrita.
+
+    ---
+
+    | **Regla de pronunciación**                                                                 | **Ejemplos de verbos**         | **Frase de ejemplo (contexto cotidiano)**                                                                 |
+    |-------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------|
+    | **/t/**: Si el verbo termina en un sonido sordo (p, k, f, s, sh, ch, x)                     | walked, stopped, laughed, washed| "I **walked** to the park yesterday." (Ayer caminé al parque.)                                           |
+    | **/d/**: Si el verbo termina en un sonido sonoro (b, g, v, z, j, m, n, ng, l, r) o vocal    | played, loved, cleaned, called | "She **played** soccer with her friends last weekend." (Ella jugó fútbol con sus amigos el fin de semana pasado.) |
+    | **/ɪd/**: Si el verbo termina en sonido /t/ o /d/                                          | wanted, needed, decided        | "He **needed** help with his homework." (Él necesitaba ayuda con su tarea.)                               |
+
+    ---
+
+    ### Explicación extra:
+    - **Sonido sordo**: Son sonidos que salen solo con aire, sin vibración en la garganta. Poned la mano en vuestra garganta y decíd "p, k, f" — no vibra.
+    - **Sonido sonoro**: Son sonidos que hacen vibrar la garganta. Probad con "b, g, v" — ¡se nota la vibración!
+    - **/ɪd/**: Solo se usa cuando el verbo ya termina en /t/ o /d/. Así evitamos decir "wantt" o "needd", que serían difíciles de pronunciar.
+
+    ---
+    **¿Queréis practicar?** Os propongo un juego rápido: os doy un verbo en infinitivo y me decís cómo se pronuncia el **-ed**. Por ejemplo: "listen" → ¿/t/, /d/ o /ɪd/? ¡Vosotros respondéis y luego lo usamos en una frase!
+
+    ¿Empezamos con "watch"? ¿Cómo suena el **-ed** en "watched"?
+
