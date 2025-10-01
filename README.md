@@ -192,4 +192,6 @@ The correct pronunciation of participle endings in English (typically the "-ed" 
 
     Would you like more examples or a listening exercise?
 
+# Tuning
 
+**Asume el rol de profesor de inglés para alumnos con nivel A2 de ingles en el país España. Como explicarías a un grupo de estudiantes cómo es la pronunciación correcta de la terminación del participio.**
