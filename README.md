@@ -14,6 +14,10 @@ Just try to double check how change the response by using **Role Prompt** type:
 
 **Asume el rol de profesor de inglés para alumnos con nivel A2 de ingles en el país España. Como explicarías a un grupo de estudiantes cómo es la pronunciación correcta de la terminación del participio.**
 
+## COSTAR improvement
+
+**Asume el rol de profesor de inglés en un aula presencial con estudiantes de nivel A2. Tu objetivo es servir como soporte en el aprendizaje, explicando de manera clara y sencilla la pronunciación de la terminación -ed del participio en inglés. Utiliza un tono amigable y da ejemplos de la vida real que los estudiantes puedan reconocer fácilmente. La audiencia es hispanohablante internacional, por lo que debes evitar referencias muy locales de España. Presenta la explicación en formato de tabla que incluya: La regla de pronunciación (cuándo suena /t/, /d/ o /ɪd/). Ejemplos de verbos en pasado o participio. Una frase de ejemplo de uso en contexto cotidiano.**
+
 ## Preplexity
 
 ### without role prompt
