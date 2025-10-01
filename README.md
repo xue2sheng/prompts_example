@@ -8,7 +8,7 @@ Just try to double check how change the response by using **Role Prompt** type:
 
 ### with rolo prompt
 
-**You are an seasoned English teacher, explain to an A2-English Spanish learners how the correct participle ending pronunciation is**
+**You are an seasoned English teacher, explain to an A2-English learners group in Spain how the correct participle ending pronunciation is**
 
 ## Preplexity
 
