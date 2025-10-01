@@ -8,7 +8,7 @@ Just try to double check how change the response by using **Role Prompt** type:
 
 ### with rolo prompt
 
-**You are an English seasoned teacher explain to an A2 English Spanish learners how the correct participle ending pronunciation is**
+**You are an seasoned English teacher, explain to an A2-English Spanish learners how the correct participle ending pronunciation is**
 
 ## Preplexity
 
@@ -191,3 +191,5 @@ The correct pronunciation of participle endings in English (typically the "-ed" 
     - call
 
     Would you like more examples or a listening exercise?
+
+
